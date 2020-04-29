@@ -1,7 +1,7 @@
 {
     "name": "react-headroom-forked",
     "description": "Hide your header until you need it. React.js port of headroom.js",
-    "version": "3.0.1",
+    "version": "3.0.3",
     "author": "Ashish Gupta <ashishgupta1989@gmail.com>",
     "bugs": {
         "url": "https://github.com/ashishgupta1989/react-headroom/issues"
