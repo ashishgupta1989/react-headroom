@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import { Container } from 'react-responsive-grid'
 
@@ -41,8 +42,8 @@ const IndexRoute = React.createClass({
             paddingTop: 0,
           }}
         >
-          <div dangerouslySetInnerHTML=
-            {{
+          <div
+            dangerouslySetInnerHTML={{
               __html: this.props.data.allMarkdown.edges[0].node.bodyHTML,
             }}
           />
